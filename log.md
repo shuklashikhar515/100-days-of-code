@@ -16,7 +16,7 @@
 **Thoughts:** Was quite lazy while coding but still tried to stick to the routine.
 
 **Link to work:** [Linear Search](https://github.com/shuklashikhar515/CodePractice/blob/master/linear_search)
-[Binary search] (https://github.com/shuklashikhar515/CodePractice/blob/master/binary_search)
+[Binary search](https://github.com/shuklashikhar515/CodePractice/blob/master/binary_search)
 
 ### Day 2: April 25, 2020 
 
