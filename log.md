@@ -26,3 +26,22 @@
 
 **Link to work:** [Array Rotation](https://github.com/shuklashikhar515/CodePractice/blob/master/array_rotation) 
 [Selection Sort](https://github.com/shuklashikhar515/CodePractice/blob/master/selection_sort)
+
+### Day 3-4: April 26, 2020 & April 27,2020 
+
+**Today's Progress**: Implemented Bubble sort (Iterative and recursive)
+
+**Thoughts:** Found some time to code as well
+
+**Link to work:** [Bubble Sort](https://github.com/shuklashikhar515/CodePractice/blob/master/bubble_sort) [Recursive BubbleSort](https://github.com/shuklashikhar515/CodePractice/blob/master/recursive_bubble_sort)
+
+### Day 5: April 28, 2020 
+
+**Today's Progress**: Implemented Insertion Sort in c++
+
+**Thoughts:** Was lazy to do coding
+
+**Link to work:**[Insertion Sort](https://github.com/shuklashikhar515/CodePractice/blob/master/insertion_sort)
+
+
+
