@@ -43,5 +43,13 @@
 
 **Link to work:**[Insertion Sort](https://github.com/shuklashikhar515/CodePractice/blob/master/insertion_sort)
 
+### Day 6: April 30, 2020 
+
+**Today's Progress**: Implemented Merge Sort in c++
+
+**Thoughts:** Stuck in a basic question which is continuously demotivating me since days.
+
+**Link to work:**[Merge Sort](https://github.com/shuklashikhar515/CodePractice/blob/master/merge_sort)
+
 
 
